@@ -1,0 +1,346 @@
+@media only screen and (max-width: 768px) {
+    #text2 {
+        position: relative;
+        top: 5vmin;
+    }
+
+    #text3 {
+        position: relative;
+        top: 10vmin;
+    }
+
+    #text4 {
+        position: relative;
+        top: 10vmin;
+    }
+
+    #loadcircle1 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 250px;
+        position: relative;
+        top: 1.5vmin;
+    }
+
+    #loadcircle2 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 250px;
+        position: relative;
+        top: 1.5vmin;
+    }
+
+    #loadcircle3 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 270px;
+        position: relative;
+        top: 1.5vmin;
+    }
+
+    #what {
+        position: relative;
+        top: 100vmin;
+    }
+
+    #img1 {
+        width: 100%;
+        position: relative;
+        top: -100vmin;
+        left: -100vmin;
+    }
+
+    #img3 {
+        width: 100%;
+        position: relative;
+        top: -100vmin;
+        left: -100vmin;
+    }
+
+    #carouselExampleIndicators {
+        width: 100%;
+        position: relative;
+        top: -80vmin;
+    }
+
+    #img4 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        top: -150vmin;
+    }
+
+    #img5 {
+        width: 100%;
+        position: relative;
+        top: -140vmin;
+    }
+
+    #bro {
+        position: relative;
+        top: -140vmin;
+    }
+
+    #video1 {
+        scale: 30%;
+        position: relative;
+        top: -300vmin;
+        left: -82vmin;
+    }
+
+    #video2 {
+        scale: 30%;
+        position: relative;
+        top: -600vmin;
+        left: -82vmin;
+    }
+
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer-section {
+        min-width: 100%;
+        margin: 10px 0;
+        text-align: center;
+    }
+
+    .footer-section ul {
+        padding-left: 0;
+    }
+
+    .footer-section form input,
+    .footer-section form textarea {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    #foot {
+        position: relative;
+        top: 1400vmin;
+        background-color: #444;
+    }
+}
+
+
+@media only screen and (min-width: 769px) {
+    #text1 {
+        position: relative;
+        left: -10vmin;
+        margin-bottom: 40px;
+    }
+
+    #text10 {
+        position: relative;
+        left: -10vmin;
+        margin-bottom: 40px;
+    }
+
+    #text3 {
+        position: relative;
+        right: -10vmin;
+    }
+
+    #text30 {
+        position: relative;
+        right: -10vmin;
+    }
+
+    #loadcircle1 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 250px;
+        position: relative;
+        top: 0.8vmin;
+    }
+
+    #loadcircle2 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 250px;
+        position: relative;
+        top: 0.8vmin;
+    }
+
+    #loadcircle3 {
+        height: 10px;
+        width: 10px;
+        border-radius: 5px;
+        background-color: black;
+        margin-top: -12px;
+        margin-left: 270px;
+        position: relative;
+        top: 0.8vmin;
+    }
+
+    #what {
+        position: relative;
+        top: 20vmin;
+    }
+
+    #atrain {
+        position: relative;
+        top: 8vmin;
+    }
+
+    #img1 {
+        width: 120%;
+        position: relative;
+        left: -10vmin;
+
+
+    }
+
+    #carouselExampleIndicators {
+        width: 100%;
+        position: relative;
+        top: -15vmin;
+
+    }
+
+    #img3 {
+        width: 120%;
+        position: relative;
+        right: -5vmin;
+    }
+
+    #img4 {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        left: -10vmin;
+    }
+
+    #img5 {
+        width: 100%;
+        position: relative;
+        right: -10vmin;
+    }
+
+    #video1 {
+        scale: 40%;
+        position: relative;
+        top: -80vmin;
+    }
+
+    #video2 {
+        scale: 40%;
+        position: relative;
+        top: -80vmin;
+    }
+
+    #bro2 {
+        position: relative;
+        left: -40vmin;
+    }
+
+    footer {
+        background: #333;
+        color: #fff;
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .footer-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-items: flex-start;
+        max-width: 1200px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .footer-section {
+        flex: 1;
+        min-width: 250px;
+        margin: 20px;
+    }
+
+    .footer-section h2 {
+        margin-bottom: 15px;
+        font-size: 18px;
+        color: #fff;
+    }
+
+    .footer-section p,
+    .footer-section ul,
+    .footer-section form {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+    }
+
+    .footer-section ul {
+        padding: 0;
+    }
+
+    .footer-section ul li {
+        margin-bottom: 10px;
+    }
+
+    .footer-section ul li a {
+        color: #ccc;
+        text-decoration: none;
+    }
+
+    .footer-section ul li a:hover {
+        color: #fff;
+        text-decoration: underline;
+    }
+
+    .footer-section form {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer-section form input,
+    .footer-section form textarea {
+        margin-bottom: 10px;
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+    }
+
+    .footer-section form button {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        background: #555;
+        color: #fff;
+        cursor: pointer;
+    }
+
+    .footer-section form button:hover {
+        background: #444;
+    }
+
+    .footer-bottom {
+        margin-top: 20px;
+    }
+
+    .footer-bottom p {
+        margin: 0;
+    }
+
+    #foot {
+        position: relative;
+        top: 700vmin;
+    }
+}
